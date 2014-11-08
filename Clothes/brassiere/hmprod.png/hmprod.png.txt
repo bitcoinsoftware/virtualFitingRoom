@@ -1,0 +1,8 @@
+[("otherKeys#loose",0.1),
+("otherKeys#corpseCover",0.3),
+("brinkKeys#sholder_brink#R",(86,62)),
+("brinkKeys#sholder_brink#L",(298,59)),
+("brinkKeys#corpse_brink#R",(47,304)),
+("brinkKeys#corpse_brink#L",(338,304)),
+("pointKeys#armpit#R",(47,226)),
+("pointKeys#armpit#L",(340,221))]

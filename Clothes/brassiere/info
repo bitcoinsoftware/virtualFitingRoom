@@ -1,0 +1,15 @@
+{
+'pointKeys':
+{
+'armpit':{'L':(0,0),'R':(0,0)},
+},
+'brinkKeys':
+{
+'sholder_brink':{'L':(0,0),'R':(0,0)},
+'corpse_brink':{'L':(0,0),'R':(0,0)},
+},
+'otherKeys':
+{
+'corpseCover':0,'loose':0
+}
+}

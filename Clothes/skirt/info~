@@ -1,0 +1,16 @@
+{
+'pointKeys':
+{
+},
+'brinkKeys':
+{
+'corpse':{'L':(0,0),'R':(0,0)},
+'loin':{'L':(0,0),'R':(0,0)},
+'leg':{'L':{'outside':(0,0)},'R':{'outside':(0,0)}}
+},
+'otherKeys':
+{
+'legCover':0.2,'waistCover':0,
+'loinCover':1,'loose':0.15
+}
+}

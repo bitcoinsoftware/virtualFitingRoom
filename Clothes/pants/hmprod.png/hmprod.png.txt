@@ -1,0 +1,5 @@
+[("otherKeys#loose",0.15),
+("otherKeys#loinCover",1),
+("brinkKeys#groin",(190,203)),
+("brinkKeys#loin#R",(57,122)),
+("brinkKeys#loin#L",(325,121))]

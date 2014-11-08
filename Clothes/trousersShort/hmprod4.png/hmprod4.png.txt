@@ -1,0 +1,13 @@
+[("otherKeys#loinCover",1),
+("otherKeys#waistCover",0),
+("otherKeys#legCover",0.2),
+("otherKeys#loose",0.2),
+("pointKeys#groin",(190,297)),
+("brinkKeys#corpse#R",(56,64)),
+("brinkKeys#corpse#L",(323,63)),
+("brinkKeys#loin#R",(26,222)),
+("brinkKeys#loin#L",(353,228)),
+("brinkKeys#leg#R#outside",(24,346)),
+("brinkKeys#leg#R#inside",(177,373)),
+("brinkKeys#leg#L#outside",(355,352)),
+("brinkKeys#leg#L#inside",(209,369))]

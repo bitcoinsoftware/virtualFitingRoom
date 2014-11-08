@@ -1,0 +1,14 @@
+{
+'pointKeys':
+{
+},
+'brinkKeys':
+{
+'loin_brink':{'L':(0,0),'R':(0,0)},
+'groin':(0,0),
+},
+'otherKeys':
+{
+'loose':0.15
+}
+}
